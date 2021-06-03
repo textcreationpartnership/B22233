@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolvtion of the Lords and Commons assembled in Parliament to the Kings most excellent maiestie concerning the great disturbances in York-shire with the humble propositions and desires of the gentry, free-holders, and inhabitants of the county of York-shire to both Houses of Parliament : likewise terrible newes from Holland, read in the House of Commons and ordered to be forthwith printed.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22233</idno><idno type="EEBO-CITATION">12248656</idno>
+  <idno type="VID">197405</idno>
+  <idno type="EEBO-PROQUEST">2240955768</idno>
+  
+            <idno type="STC">Wing E2237</idno>
+            <idno type="OCLC">12248656</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E108, no 45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolvtion of the Lords and Commons assembled in Parliament to the Kings most excellent maiestie concerning the great disturbances in York-shire with the humble propositions and desires of the gentry, free-holders, and inhabitants of the county of York-shire to both Houses of Parliament : likewise terrible newes from Holland, read in the House of Commons and ordered to be forthwith printed.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Yorkshire (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197405:1"/>
+            <p>THE RESOLVTION Of the LORDS AND COMMONS assembled in <hi>PARLIAMENT,</hi> To the Kings most Excellent MAIESTIE, CONCERNING The great disturbances in York-shire, with the humble Propositions and Desires of the Gentry, Free-holders, and Inhabitants of the County of York-shire, to both Houses of Parliament. IOHN BROWN <hi>Cler. Parl.</hi> Likewise, <hi>Terrible newes from Holland, read in the House of Com<g ref="char:EOLhyphen"/>mons, and ordered to bee forthwith printed.</hi> HEN. ELSING. <hi>Cler. Parl.</hi>
+            </p>
+            <p>Printed for <hi>Iohn Smith,</hi> 1642.</p>
+            <pb facs="tcp:197405:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:197405:2"/>
+            <head>THE RESOLVTION Of the LORDS AND COMMONS assembled in <hi>PARLIAMENT,</hi> TO THE Kings most Excellent Majesty, <hi>Concerning</hi> The great disturbances in York-shire, with the humble Propositions and Desires of the Gen<g ref="char:EOLhyphen"/>try, Free-holders, and inhabitants of the County of York-shire to both <hi>Houses of Parliament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE providence of the Al<g ref="char:EOLhyphen"/>mighty hath been most miraculously and won<g ref="char:EOLhyphen"/>derfully in his manifold and mercifull deliveran<g ref="char:EOLhyphen"/>ces of this Land from e<g ref="char:EOLhyphen"/>minent and desperate dangers, which did im<g ref="char:EOLhyphen"/>mediatly threaten the overthrow of this whole
+<pb facs="tcp:197405:3"/> Nation: For which wee cannot but with hum<g ref="char:EOLhyphen"/>ble and thankfull hearts and mindes acknow<g ref="char:EOLhyphen"/>ledge his infinite goodnesse for these worthy members of the Parliament, which hee hath been pleased to affoord us for our preservation, &amp; to deliver us from the danger that was hang<g ref="char:EOLhyphen"/>ing over us: for wee cannot but acknowledge, that from their vigilant care did issue our safety; and that their labours were onely undertaken to preserve the peace and quiet of this king<g ref="char:EOLhyphen"/>dome, against the assault of the malignant par<g ref="char:EOLhyphen"/>ty, whose cruell desires were ambitious to un<g ref="char:EOLhyphen"/>settle and breake the publicke peace and welfare of this Kingdome by their most malitious and pernitious counsels unto his sacred Majesty: But thankes bee to God, against the endevours of these prey-thirsty workers, hitherto the faith<g ref="char:EOLhyphen"/>full endevours of the House have been secured, and in despite of all contradiction of their envi<g ref="char:EOLhyphen"/>ous oppositions, yet remaines unshaken. Their fidelity and faith unto this Land is still safe; and without question, with the assistance of Al<g ref="char:EOLhyphen"/>mighty God, will nor desist, untill it hath brought all their desires to a most happy perfe<g ref="char:EOLhyphen"/>ction. But because I will not trespasse too farre upon the Readers patience, I will relate and de<g ref="char:EOLhyphen"/>scribe the resolution of both Houses of Parlia<g ref="char:EOLhyphen"/>ment, unto the Kings most Excellent Majesty, in these particulars following.</p>
+            <pb facs="tcp:197405:3"/>
+            <p>The honourable Court of Parliament having lately received a Petition from a great number of the Gentry and Freeholders of the County of Yorke, assembled together by his Majesties spe<g ref="char:EOLhyphen"/>ciall command, wherein was declared, that ha<g ref="char:EOLhyphen"/>ving taken a resolution to addresse themselves unto his gratious Majesty in the humble way of Petition for redres of the grievances which they now lie under, they were interrupted and affron<g ref="char:EOLhyphen"/>ted therein by the Earle of Lindsey, and divers others, that so by that meanes they could not preferre their desires to his most sacred Majesty, where being resolved together they sent it to the honourable Houses of Parliament: with an hum<g ref="char:EOLhyphen"/>ble desire that they would bee pleased to take such course therein as might tend to the preser<g ref="char:EOLhyphen"/>vation of their liberties, and the peace of the Kingdome: whereupon having seriously consi<g ref="char:EOLhyphen"/>dered and weighed the particulars of those their desires and complaints as they are laid downe in their Petition; and finding that the grievances they complain of, &amp; the increase of the miseries formerly sustained by the County, which hath been the tragical stage of Armies and warres, by reason of his Majesties distance of residence, and and difference of Councells from your great Councell the Parliament, begetting great distractions and distempers throughout the
+<pb facs="tcp:197405:4"/> whole Kingdom, and especially in that County: the drawing to those parts the great number of discontented persons that may justly bee feared to affect the publique ruine, for their owne pri<g ref="char:EOLhyphen"/>vate advantage. These aforementioned particu<g ref="char:EOLhyphen"/>lars being taken into consideration by both Houses of Parliament being propounded and represented to them by the Gentry of Yorke<g ref="char:EOLhyphen"/>shire, for their speedy redresse and desires, forth<g ref="char:EOLhyphen"/>with concluded, ordered, and resolved to send a Petition to the Kings most Excellent Majesty, declaring the humble desires of the Gentry, Free<g ref="char:EOLhyphen"/>holders, and inhabitants of Yorkeshire which they did accordingly. There were letters read in the Honourable House of Commons, which came from Rotterdam importing the great pro<g ref="char:EOLhyphen"/>vision of Armes, and Ammunition, that were preparing to be sent towards the North: there being divers Cavaleeres resolved to goe towards those parts having got great force of Armour and other provision, and giving out many base ignominious &amp; slanderous reproaches and abu<g ref="char:EOLhyphen"/>sive words against the Parliament of England.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:197405:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
